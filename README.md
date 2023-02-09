@@ -2,7 +2,7 @@
 
 Wallpapers for Pixelfiles
 
-![alt a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles](wallprev.png "a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles")
+![alt a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles](https://github.com/Mohannadk28/pixelfiles/blob/main/wallprev.png?raw=true "a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles")
 
 ## Credit
 Unsplash:
