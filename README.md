@@ -1,6 +1,6 @@
 # wallpapers-pixelfiles
 
-Wallpapers for Pixelfiles
+Wallpapers for [Pixelfiles](https://github.com/mohannadk28/pixelfiles) :D
 
 ![alt a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles](https://github.com/Mohannadk28/pixelfiles/blob/main/wallprev.png?raw=true "a Preview of Nitrogen with Some of the Wallpapers in Pixelfiles")
 
